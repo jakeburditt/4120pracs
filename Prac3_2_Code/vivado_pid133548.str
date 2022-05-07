@@ -1,0 +1,80 @@
+/*
+
+Xilinx Vivado v2021.1 (64-bit) [Major: 2021, Minor: 1]
+SW Build: 3247384 on Thu Jun 10 19:36:07 MDT 2021
+IP Build: 3246043 on Fri Jun 11 00:30:35 MDT 2021
+
+Process ID (PID): 133548
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Wed May 04 18:57:10 SAST 2022
+Time zone: 	South Africa Standard Time (Africa/Johannesburg)
+
+OS: Ubuntu
+OS Version: 5.13.0-35-generic
+OS Architecture: amd64
+Available processors (cores): 12
+
+Display: localhost:11.0
+Screen size: 1440x876
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+
+Java version: 	11.0.2 64-bit
+Java home: 	/opt/Xilinx/Vivado/2021.1/tps/lnx64/jre11.0.2
+Java executable: 	/opt/Xilinx/Vivado/2021.1/tps/lnx64/jre11.0.2/bin/java
+Java initial memory (-Xms): 	256 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	BRDJAK002
+User home directory: /home/BRDJAK002
+User working directory: /home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /opt/Xilinx/Vivado
+HDI_APPROOT: /opt/Xilinx/Vivado/2021.1
+RDI_DATADIR: /opt/Xilinx/Vivado/2021.1/data
+RDI_BINDIR: /opt/Xilinx/Vivado/2021.1/bin
+
+Vivado preferences file: /home/BRDJAK002/.Xilinx/Vivado/2021.1/vivado.xml
+Vivado preferences directory: /home/BRDJAK002/.Xilinx/Vivado/2021.1/
+Vivado layouts directory: /home/BRDJAK002/.Xilinx/Vivado/2021.1/data/layouts
+PlanAhead jar file: 	/opt/Xilinx/Vivado/2021.1/lib/classes/planAhead.jar
+Vivado log file: 	/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/vivado.log
+Vivado journal file: 	/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/vivado.jou
+Engine tmp dir: 	./.Xil/Vivado-133548-bluelab-7c10c9d08920
+
+Xilinx Environment Variables
+----------------------------
+XILINX: /opt/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_DSP: /opt/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_HLS: /opt/Xilinx/Vitis_HLS/2021.1
+XILINX_PLANAHEAD: /opt/Xilinx/Vivado/2021.1
+XILINX_VITIS: 
+XILINX_VIVADO: /opt/Xilinx/Vivado/2021.1
+XILINX_VIVADO_HLS: /opt/Xilinx/Vivado/2021.1
+
+
+GUI allocated memory:	256 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,763 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+selectButton(PAResourceEtoH.GettingStartedView_OPEN_PROJECT, "Open Project"); // y
+// Run Command: PAResourceCommand.PACommandNames_OPEN_PROJECT
+// WARNING: HEventQueue.dispatchEvent() is taking  1025 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,764 MB. GUI used memory: 74 MB. Current time: 5/4/22, 6:57:11 PM SAST

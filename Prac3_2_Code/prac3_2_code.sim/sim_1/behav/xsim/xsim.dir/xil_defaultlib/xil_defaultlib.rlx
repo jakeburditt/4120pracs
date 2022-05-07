@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.sim/sim_1/behav/xsim/glbl.v,1647954971,verilog,,,,glbl,,,,,,,,
+/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sim_1/new/testBench.v,1651735980,verilog,,,,testBench,,,,,,,,
+/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sources_1/new/shift.v,1651671687,verilog,,/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sources_1/new/sine_gen.v,,shift,,,,,,,,
+/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sources_1/new/shifter.v,1651735878,verilog,,/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sources_1/new/sine_gen.v,,shifter,,,,,,,,
+/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sources_1/new/sine_gen.v,1651657551,verilog,,/home/BRDJAK002/eee4120F/EEE4120F/Prac3/Prac3_2_Code/prac3_2_code.srcs/sim_1/new/testBench.v,,sine_gen,,,,,,,,
